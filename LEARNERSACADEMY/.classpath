@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="LearnersAcademyProject/src/main/java"/>
+	<classpathentry kind="src" path="MS FSD DEC cohort 2021 phase-2 project pdf submission by SURAJ R SHIRIYA 26-03-2022/LearnersAcademyProject/src/main/java"/>
+	<classpathentry kind="lib" path="LearnersAcademyProject/src/main/webapp/WEB-INF/lib/ojdbc10.jar"/>
+	<classpathentry kind="lib" path="MS FSD DEC cohort 2021 phase-2 project pdf submission by SURAJ R SHIRIYA 26-03-2022/LearnersAcademyProject/src/main/webapp/WEB-INF/lib/ojdbc10.jar"/>
+	<classpathentry kind="output" path="LearnersAcademyProject/build/classes"/>
+</classpath>
